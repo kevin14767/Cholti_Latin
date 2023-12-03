@@ -1,0 +1,3 @@
+[submodule "PyWORDS"]
+	path = PyWORDS
+	url = .\\PyWORDS\\

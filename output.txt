@@ -1,0 +1,2 @@
+Original number of words: 1
+Number of words after winnowing: 0
